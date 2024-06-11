@@ -8,3 +8,17 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
+#Aplicacion desarrollada con Spring Boot
+
+#Version de Java 17
+
+#Version React 19
+
+#Version Node 20
+
+#Al momento de clonar el repositorio instalar las depencias necesarias como axios, bootstrap, bootwatch, react-roter-dom
+
+#Envio script de la bse de datos para importar la base de datos en PostgreSQL
+
+
+
